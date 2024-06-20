@@ -1,4 +1,4 @@
-## Hi 👋, I'm Muhammad BanuWirya Ramadhan
+## Hi 👋, I'm Nazir Saputra
 
 
 i'm a full-time front end developer.i love coding and debugging
