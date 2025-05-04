@@ -1,23 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm [Nazir Saputra]
 
-<!--
-**nazirsaputra26/nazirsaputra26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** and tech enthusiast who loves building interactive web applications with modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
 
+- 🌐 Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+- 💻 Backend: Node.js, Express, Laravel
+- 🛢️ Database: MySQL, MongoDB, Firebase
+- ⚙️ Tools: Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on **website** laravel
-- 🌱 I’m currently learning [**laravel**](https://laravel.com) framework
-- 👍👍👍
+---
 
-![good morning](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNlbWhidXZjYTFvc3k2a3FoOXNpcGxoNjRmMWJmM2RubGFucml0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pLh5zL7jhWj24CxTM9/giphy.gif)
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [https://www.linkedin.com/in/nazir-saputra](https://www.linkedin.com/in/nazir-saputra)
+- Email: nazir.saputra00@gmail.com
