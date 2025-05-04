@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on **website** laravel
+- 🌱 I’m currently learning [**laravel**](https://laravel.com) framework
+- 👍👍👍
+
+![good morning](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNlbWhidXZjYTFvc3k2a3FoOXNpcGxoNjRmMWJmM2RubGFucml0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pLh5zL7jhWj24CxTM9/giphy.gif)
