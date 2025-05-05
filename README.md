@@ -1,6 +1,6 @@
 # Hello I'm Nazir Saputra 🙌
 
-![Nazir Saputra](img/github-header-image.png)
+![Nazir Saputra](github-header-image.png)
 
 I'm a passionate **Frontend Developer** and tech enthusiast who loves building interactive web applications with modern technologies.
 
