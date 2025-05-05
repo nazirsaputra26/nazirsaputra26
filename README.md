@@ -72,7 +72,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nazirsaputra26/nazirsaputra26/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
 <img src="https://raw.githubusercontent.com/nazirsaputra26/nazirsaputra26/output/snake.svg" alt="Snake animation" />
 
