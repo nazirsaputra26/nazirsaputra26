@@ -58,13 +58,13 @@
 ##### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nazirsaputra26&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=nazirsaputra26&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h2 align="left">Play Game with me</h2>
 
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazirsaputra26/nazirsaputra26/output/pacman-contribution-graph-dark.svg">
@@ -72,8 +72,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nazirsaputra26/nazirsaputra26/output/pacman-contribution-graph.svg">
 </picture>
 
-
 <img src="https://raw.githubusercontent.com/nazirsaputra26/nazirsaputra26/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
